@@ -1,0 +1,14 @@
+:root {
+  --gray-600: #7D7987;
+
+  --teal-300: #89C5CC;
+
+  --green-300: #69B99D;
+
+  --purple-900: #1F1534;
+}
+
+:focus {
+  outline: transparent;
+  box-shadow: none;
+}
