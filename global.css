@@ -21,6 +21,7 @@ body {
   min-height: 100vh;
   margin: 0;
   padding: 0;
+  background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
   font-size: 1rem;
