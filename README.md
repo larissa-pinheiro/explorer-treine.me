@@ -17,7 +17,8 @@ Como contribuição própria, adicionei o conceito de variáveis CSS, transiçã
 
 ### Links
 
-- URL do site: [Treine.me](#)
+- URL do site: [Treine.me](https://larissa-pinheiro.github.io/explorer-treine.me/)
+- Figma do projeto: [Acesse](https://www.figma.com/file/7pZePhp06MQlrgNA8wIQY7/Explorer---Projeto-02-(Copy)?node-id=1%3A5)
 
 ### Desktop
 
