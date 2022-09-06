@@ -13,7 +13,6 @@ nav {
 nav ul {
   font-family: 'Mulish', sans-serif;
   display: flex;
-  list-style: none;
   gap: 3rem;
   margin: 0;
   padding: 0;
@@ -21,7 +20,6 @@ nav ul {
 
 nav a {
   color: var(--purple-900);
-  text-decoration: none;
   opacity: 0.5;
 }
 
@@ -76,7 +74,6 @@ button {
   font-family: 'DM Sans', sans-serif;
   text-transform: uppercase;
   gap: 10px;
-  cursor: pointer;
 
   transition: background 0.5s ease;
 }
